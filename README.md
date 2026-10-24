@@ -104,13 +104,5 @@ src/
 
 ---
 
-## 👥 Team
-- **[Insert Name]** - Frontend Developer & AI Integration
-- **[Insert Name]** - UI/UX Designer
-
-## 🔗 Live Demo
-- Vercel Deployment Link: *[Insert URL]*
-
----
 
 *Note: This project contains only one branch (`main`), repository size is under 10 MB, and all local assets are optimized for Vercel deployment. No heavy frameworks or styling libraries were used.*
